@@ -1,0 +1,9 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: CLIENT-SERVICE2
+#
+#  cloud:
+#    config:
+#      enabled: false
